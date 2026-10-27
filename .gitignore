@@ -1,0 +1,10 @@
+# keep the original olist dataset off Github
+/data/raw/
+
+#Temporary and local files
+.vs/
+.vscode/
+*.user
+*.suo
+bin/
+obj/
